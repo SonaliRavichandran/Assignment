@@ -198,6 +198,9 @@ hr{
     justify-content: center;
     align-items: center;
 }
+#line span{
+    color: gray;
+}
 #already{
     display: flex;
     justify-content: center;
